@@ -1,0 +1,11 @@
+//python Indentation
+code:
+if(5>2):
+  print("yes")
+output:-yes
+
+code:
+if(5>2):
+print("yes")
+output:
+error
