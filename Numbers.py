@@ -19,11 +19,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 36
 >>> c/45.6
 0.2850877192982456
->>> round(time, 2)
-Traceback (most recent call last):
-  File "<pyshell#11>", line 1, in <module>
-    round(time, 2)
-NameError: name 'time' is not defined. Did you forget to import 'time'?
 >>> round(c/45.6, 2)
 0.29
 >>> 6-5.7
