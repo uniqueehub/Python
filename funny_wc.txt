@@ -1,0 +1,11 @@
+wordcount: 8      I am Learning
+wordcount: 4 I am Learning Chinese
+wordcount: 4 I am Learning Hindi
+wordcount: 2 Johny, Johny!
+wordcount: 2 Yes, Papa
+wordcount: 2 Eating sugar?
+wordcount: 2 No, Papa
+wordcount: 2 Telling lies?
+wordcount: 2 No, Papa
+wordcount: 3 Open your mouth!
+wordcount: 3 Ha! Ha! Ha!
